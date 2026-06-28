@@ -1,0 +1,10 @@
+{
+    "vehicles": [
+        {
+            "id": 560,
+            "base_id": 560,
+            "dff": "corolla.dff",
+            "txd": "corolla.txd"
+        }
+    ]
+}
